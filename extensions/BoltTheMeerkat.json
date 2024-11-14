@@ -1,0 +1,14 @@
+{
+    "extensions": [
+        {
+            "extension_name": "Veadotube WebSocket",
+            "alternate_names": ["Veadotube WebSocket (for SAMMI)"],
+            "details": {
+                "author": "Bolt (@BoltTheMeerkat)",
+                "description": "Veadotube WebSocket client for SAMMI",
+                "latest_version": "1.1.2",
+                "download_link": "https://bolt-the-meerkat.itch.io/vedotube-webhook-for-sammi"
+            }
+        }
+    ]
+}
